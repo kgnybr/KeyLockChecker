@@ -1,0 +1,10 @@
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\bin\Debug\KeyLockChecker.exe.config
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\bin\Debug\KeyLockChecker.exe
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\bin\Debug\KeyLockChecker.pdb
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.csproj.AssemblyReference.cache
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.Form1.resources
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.Properties.Resources.resources
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.csproj.GenerateResource.cache
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.csproj.CoreCompileInputs.cache
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.exe
+C:\Users\Kağan\source\repos\KeyLockChecker\KeyLockChecker\obj\Debug\KeyLockChecker.pdb
